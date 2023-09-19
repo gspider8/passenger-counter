@@ -1,13 +1,10 @@
-# coa0f455fa7d187fe55478e21
+# Passenger Counter App
 
-Quick start:
+Interact on the web:
+[link](https://jade-blancmange-fd7bf9.netlify.app/)
 
-```
-$ npm install
-$ npm start
-````
+This project was developed in Scrimba's Learn JavaScript Course
 
-Head over to https://vitejs.dev/ to learn more about using vite
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
